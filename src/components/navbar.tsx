@@ -15,8 +15,8 @@ import Image from "next/image";
 
 export const navLinks = [
   { href: "/", label: "Home" },
-  { href: "/company", label: "Company" },
-  { href: "/contact", label: "Contact" },
+  { href: "https://utkuoylum.com/", label: "Portfolio" },
+  { href: "https://utkuoylum.com/#contact", label: "Contact" },
 ];
 
 export const DesktopNav = () => {

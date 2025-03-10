@@ -5,10 +5,10 @@ export default function Banner() {
     <div className="mt-10 flex flex-col items-center justify-center gap-5 text-center">
       <h3 className="font-semibold">My Blog</h3>
       <h2 className="text-5xl font-bold tracking-wide">
-        Writings from our team
+        Writings from me
       </h2>
       <p className="tracking-wide">
-        The latest industry news, interviews, technologies and resources.
+        The latest industry news, interviews, technologies and personal sharings.
       </p>
     </div>
   );
